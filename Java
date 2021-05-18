@@ -35,10 +35,6 @@ public class Exercicio6 {
             if(s == 1 && idade > 21){
             System.out.println(nome);
             }    
-        }
-        
-        
-        
+        } 
     }
-    
 }
